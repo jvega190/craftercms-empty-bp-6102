@@ -370,7 +370,7 @@
 						</property>
 						<property>
 							<name>contentTypes</name>
-							<value>*</value>
+							<value>/component/component</value>
 								<type>contentTypes</type>
 						</property>
 						<property>
