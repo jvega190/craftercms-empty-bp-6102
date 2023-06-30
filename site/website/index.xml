@@ -25,8 +25,8 @@
 	<folder-name/>
 	<createdDate>2017-01-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2023-06-30T16:37:04.908Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-06-30T16:37:04.908Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-06-30T16:40:38.541Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-06-30T16:40:38.541Z</lastModifiedDate_dt>
 	<title_t>Hello!</title_t>
 	<disabled>false</disabled>
 	<files_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/files/angular_upandrunning.pdf</key>
@@ -39,4 +39,11 @@
 	<include>/site/components/a9ab72ee-2484-3ebd-4701-22eb35edaa50.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></files_o>
+	<scripts_o item-list="true">	<item datasource="scripts">	<key>/scripts/pages/site-map.groovy</key>
+	<value>/scripts/pages/site-map.groovy</value>
+	<fileType_smv>groovy</fileType_smv>
+	</item>	<item datasource="scripts">	<key>/scripts/rest/site-map.get.groovy</key>
+	<value>/scripts/rest/site-map.get.groovy</value>
+	<fileType_smv>groovy</fileType_smv>
+	</item></scripts_o>
 </page>
