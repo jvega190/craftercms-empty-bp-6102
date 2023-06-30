@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component</content-type>
+	<display-template/>
+	<no-template-required>true</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a9ab</objectGroupId>
+	<objectId>a9ab72ee-2484-3ebd-4701-22eb35edaa50</objectId>
+	<internal-name>test</internal-name>
+	<file-name>a9ab72ee-2484-3ebd-4701-22eb35edaa50.xml</file-name>
+	<folder-name/>
+	<test_i/>
+	<createdDate>2023-06-30T16:22:30.436Z</createdDate>
+	<createdDate_dt>2023-06-30T16:22:30.436Z</createdDate_dt>
+	<lastModifiedDate>2023-06-30T16:22:30.436Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-06-30T16:22:30.436Z</lastModifiedDate_dt>
+</component>
