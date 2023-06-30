@@ -27,6 +27,13 @@
 		<main>
 			<@crafter.h1 $field="title_t">${model.title_t}</@crafter.h1>
 			<@crafter.div $field="body_html">${model.body_html}</@crafter.div>
+			
+			<ul>
+			<#list contentModel.files_o.item as file>
+            	<li>${file.key}</li>
+            </#list>
+			</ul>
+			
 		</main>
 		<@crafter.body_bottom/>
 	</body>
