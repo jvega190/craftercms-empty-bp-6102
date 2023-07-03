@@ -25,19 +25,19 @@
 	<folder-name/>
 	<createdDate>2017-01-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2023-07-03T20:46:14.538Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-07-03T20:46:14.538Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-07-03T20:46:30.987Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-07-03T20:46:30.987Z</lastModifiedDate_dt>
 	<title_t>Hello!</title_t>
 	<disabled>false</disabled>
-	<files_o item-list="true">	<item>	<key>/site/components/a9ab72ee-2484-3ebd-4701-22eb35edaa50.xml</key>
-	<value>test</value>
-	<include>/site/components/a9ab72ee-2484-3ebd-4701-22eb35edaa50.xml</include>
-	<disableFlattening>false</disableFlattening>
-	</item>	<item datasource="fileUpload">	<key>/static-assets/files/angular_upandrunning.pdf</key>
+	<files_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/files/angular_upandrunning.pdf</key>
 	<value>/static-assets/files/angular_upandrunning.pdf</value>
 	<fileType_smv>pdf</fileType_smv>
 	<fileSize_smv>8337866</fileSize_smv>
 	<include>/static-assets/files/angular_upandrunning.pdf</include>
+	</item>	<item>	<key>/site/components/a9ab72ee-2484-3ebd-4701-22eb35edaa50.xml</key>
+	<value>test</value>
+	<include>/site/components/a9ab72ee-2484-3ebd-4701-22eb35edaa50.xml</include>
+	<disableFlattening>false</disableFlattening>
 	</item></files_o>
 	<scripts_o item-list="true">	<item datasource="scripts">	<key>/scripts/pages/site-map.groovy</key>
 	<value>/scripts/pages/site-map.groovy</value>
