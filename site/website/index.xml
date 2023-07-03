@@ -26,7 +26,7 @@
   <createdDate>2017-01-31T16:18:14.000Z</createdDate>
   <createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
   <lastModifiedDate>2023-07-03T22:31:37.641Z</lastModifiedDate>
-  <lastModifiedDate_dt>2023-07-03T22:34:26.999Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2023-07-03T22:34:32.740Z</lastModifiedDate_dt>
   <title_t>Hello!</title_t>
   <disabled>false</disabled>
   <files_o item-list="true">
@@ -47,13 +47,13 @@
   </files_o>
   <scripts_o item-list="true">
     <item datasource="scripts">
-      <key>/scripts/pages/site-map.groovy</key>
-      <value>/scripts/pages/site-map.groovy</value>
+      <key>/scripts/rest/site-map.get.groovy</key>
+      <value>/scripts/rest/site-map.get.groovy</value>
       <fileType_smv>groovy</fileType_smv>
     </item>
     <item datasource="scripts">
-      <key>/scripts/rest/site-map.get.groovy</key>
-      <value>/scripts/rest/site-map.get.groovy</value>
+      <key>/scripts/pages/site-map.groovy</key>
+      <value>/scripts/pages/site-map.groovy</value>
       <fileType_smv>groovy</fileType_smv>
     </item>
   </scripts_o>
