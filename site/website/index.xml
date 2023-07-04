@@ -26,7 +26,7 @@
   <createdDate>2017-01-31T16:18:14.000Z</createdDate>
   <createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
   <lastModifiedDate>2023-07-04T16:44:37.975Z</lastModifiedDate>
-  <lastModifiedDate_dt>2023-07-04T17:34:45.955Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2023-07-04T17:34:51.073Z</lastModifiedDate_dt>
   <title_t>Hello!</title_t>
   <disabled>false</disabled>
   <files_o item-list="true">
@@ -36,14 +36,6 @@
       <include>/site/components/a9ab72ee-2484-3ebd-4701-22eb35edaa50.xml</include>
       <disableFlattening>false</disableFlattening>
     </item>
-    <item datasource="fileUpload">
-      <key>/static-assets/files/distributedsystemswithnodejs.pdf</key>
-      <value>/static-assets/files/distributedsystemswithnodejs.pdf</value>
-      <fileType_smv>pdf</fileType_smv>
-      <fileSize_smv>8689217</fileSize_smv>
-      <include>/static-assets/files/distributedsystemswithnodejs.pdf</include>
-    </item>
-
     <item inline="true">
       <key>14a3a75a-11f8-4e8b-81e7-624a142a08fb</key>
       <value><![CDATA[New component]]></value>
@@ -59,6 +51,14 @@
         <test_i/>
       </component>
     </item>
+    <item datasource="fileUpload">
+      <key>/static-assets/files/distributedsystemswithnodejs.pdf</key>
+      <value>/static-assets/files/distributedsystemswithnodejs.pdf</value>
+      <fileType_smv>pdf</fileType_smv>
+      <fileSize_smv>8689217</fileSize_smv>
+      <include>/static-assets/files/distributedsystemswithnodejs.pdf</include>
+    </item>
+
     <item datasource="fileUpload">
       <key>/static-assets/files/angular_upandrunning.pdf</key>
       <value>/static-assets/files/angular_upandrunning.pdf</value>
