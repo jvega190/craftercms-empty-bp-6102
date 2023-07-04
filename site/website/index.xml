@@ -26,7 +26,7 @@
   <createdDate>2017-01-31T16:18:14.000Z</createdDate>
   <createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
   <lastModifiedDate>2023-07-04T16:44:37.975Z</lastModifiedDate>
-  <lastModifiedDate_dt>2023-07-04T17:34:53.950Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2023-07-04T17:34:57.328Z</lastModifiedDate_dt>
   <title_t>Hello!</title_t>
   <disabled>false</disabled>
   <files_o item-list="true">
@@ -42,21 +42,6 @@
       <fileType_smv>pdf</fileType_smv>
       <fileSize_smv>8689217</fileSize_smv>
       <include>/static-assets/files/distributedsystemswithnodejs.pdf</include>
-    </item>
-    <item inline="true">
-      <key>14a3a75a-11f8-4e8b-81e7-624a142a08fb</key>
-      <value><![CDATA[New component]]></value>
-      <component id="14a3a75a-11f8-4e8b-81e7-624a142a08fb">
-        <content-type>/component/component</content-type>
-        <display-template>/templates/web/components/component.ftl</display-template>
-        <internal-name><![CDATA[New component]]></internal-name>
-        <file-name>14a3a75a-11f8-4e8b-81e7-624a142a08fb.xml</file-name>
-        <merge-strategy>inherit-levels</merge-strategy>
-        <createdDate_dt>2023-07-04T17:34:45.954Z</createdDate_dt>
-        <lastModifiedDate_dt>2023-07-04T17:34:45.954Z</lastModifiedDate_dt>
-        <objectId>14a3a75a-11f8-4e8b-81e7-624a142a08fb</objectId>
-        <test_i/>
-      </component>
     </item>
 
     <item datasource="fileUpload">
