@@ -27,13 +27,32 @@
 		<main>
 			<@crafter.h1 $field="title_t">${model.title_t}</@crafter.h1>
 			<@crafter.div $field="body_html">${model.body_html}</@crafter.div>
-			
-			<ul>
+
+			<br /><br />
+			<h2>List of files:</h2>
+			<@crafter.ul $field="files_o">
 			<#list contentModel.files_o.item as file>
-            	<li>${file.key}</li>
+				<#assign index = file?index />
+            	<@crafter.li $field="files_o" $index=index>
+					${file.key}
+				</@crafter.li>
             </#list>
-			</ul>
-			
+			</@crafter.ul>
+
+			<br /><br />
+			<h2>List of scripts:</h2>
+			<@crafter.ul $field="scripts_o">
+				<#list contentModel.scripts_o.item as script>
+					<#assign index = script?index />
+					<@crafter.li $field="scripts_o" $index=index>
+						${script.key}
+					</@crafter.li>
+				</#list>
+			</@crafter.ul>
+
+			<br /><br />
+			<h2>Components:</h2>
+			<@crafter.renderComponentCollection $field="components_o" />
 		</main>
 		<@crafter.body_bottom/>
 	</body>
