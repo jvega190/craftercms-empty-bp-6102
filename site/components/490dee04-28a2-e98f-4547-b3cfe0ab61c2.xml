@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component</content-type>
+	<display-template>/templates/web/components/component.ftl</display-template>
+	<no-template-required>true</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>490d</objectGroupId>
+	<objectId>490dee04-28a2-e98f-4547-b3cfe0ab61c2</objectId>
+	<internal-name>Shared1</internal-name>
+	<title_s>Shared1</title_s>
+	<file-name>490dee04-28a2-e98f-4547-b3cfe0ab61c2.xml</file-name>
+	<folder-name/>
+	<body_html>&lt;p&gt;Shared1 body text&lt;/p&gt;</body_html>
+	<createdDate>2023-07-05T14:52:27.555Z</createdDate>
+	<createdDate_dt>2023-07-05T14:52:27.555Z</createdDate_dt>
+	<lastModifiedDate>2023-07-05T14:52:27.555Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-07-05T14:52:27.555Z</lastModifiedDate_dt>
+</component>
