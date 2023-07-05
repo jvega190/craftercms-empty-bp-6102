@@ -25,8 +25,8 @@
 	<folder-name/>
 	<createdDate>2017-01-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2023-07-05T14:50:21.702Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-07-05T14:50:21.702Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-07-05T14:51:51.525Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-07-05T14:51:51.525Z</lastModifiedDate_dt>
 	<title_t>Hello!</title_t>
 	<disabled>false</disabled>
 	<files_o item-list="true">	<item>	<key>/site/components/a9ab72ee-2484-3ebd-4701-22eb35edaa50.xml</key>
@@ -64,4 +64,30 @@
 	</item>	<item>	<title_s>Item2</title_s>
 	</item>	<item>	<title_s>Item3</title_s>
 	</item></repGroupSimple_o>
+	<repGroupComponents_o item-list="true">	<item>	<component_o item-list="true">	<item inline="true">	<key>90436426-e70a-d10f-014e-afbb03a13702</key>
+	<value>Embedded1</value>
+<component id="90436426-e70a-d10f-014e-afbb03a13702">
+	<content-type>/component/component</content-type>
+	<display-template>/templates/web/components/component.ftl</display-template>
+	<no-template-required>true</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9043</objectGroupId>
+	<objectId>90436426-e70a-d10f-014e-afbb03a13702</objectId>
+	<file-name>90436426-e70a-d10f-014e-afbb03a13702.xml</file-name>
+	<folder-name/>
+	<internal-name>Embedded1</internal-name>
+	<title_s>Embedded1</title_s>
+	<body_html>&lt;p&gt;Embedded1 body text&lt;/p&gt;</body_html>
+	<createdDate>2023-07-05T14:52:04.439Z</createdDate>
+	<createdDate_dt>2023-07-05T14:52:04.439Z</createdDate_dt>
+	<lastModifiedDate>2023-07-05T14:52:04.439Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-07-05T14:52:04.439Z</lastModifiedDate_dt>
+</component>
+	</item></component_o>
+	</item>	<item>	<component_o item-list="true">	<item>	<key>/site/components/490dee04-28a2-e98f-4547-b3cfe0ab61c2.xml</key>
+	<value>Shared1</value>
+	<include>/site/components/490dee04-28a2-e98f-4547-b3cfe0ab61c2.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></component_o>
+	</item></repGroupComponents_o>
 </page>
