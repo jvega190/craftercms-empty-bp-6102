@@ -26,7 +26,7 @@
   <createdDate>2017-01-31T16:18:14.000Z</createdDate>
   <createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
   <lastModifiedDate>2023-07-05T14:51:51.525Z</lastModifiedDate>
-  <lastModifiedDate_dt>2023-07-05T15:49:34.536Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2023-07-05T15:51:10.214Z</lastModifiedDate_dt>
   <title_t>Hello!</title_t>
   <disabled>false</disabled>
   <files_o item-list="true">
@@ -79,12 +79,12 @@
   </components_o>
   <repGroupSimple_o item-list="true">
     <item>
+      <title_s>Item2</title_s>
+    </item>
+    <item>
       <title_s>Item1</title_s>
     </item>
 
-    <item>
-      <title_s>Item2</title_s>
-    </item>
     <item>
       <title_s>Item3</title_s>
     </item>
