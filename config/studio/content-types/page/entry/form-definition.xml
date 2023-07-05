@@ -271,7 +271,7 @@
 						</property>
 						<property>
 							<name>itemManager</name>
-							<value>fileUpload,components</value>
+							<value>fileUpload,components,fileBrowse</value>
 							<type>datasource:item</type>
 						</property>
 						<property>
