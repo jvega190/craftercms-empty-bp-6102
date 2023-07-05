@@ -25,14 +25,20 @@
 	<folder-name/>
 	<createdDate>2017-01-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2023-07-05T17:42:24.499Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-07-05T17:42:24.499Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-07-05T17:50:04.981Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-07-05T17:50:04.981Z</lastModifiedDate_dt>
 	<title_t>Hello!</title_t>
 	<disabled>false</disabled>
-	<files_o item-list="true">	<item>	<key>/site/components/a9ab72ee-2484-3ebd-4701-22eb35edaa50.xml</key>
+	<files_o item-list="true">	<item datasource="fileBrowse">	<key>/static-assets/files/pdf-sample.pdf</key>
+	<value>/static-assets/files/pdf-sample.pdf</value>
+	<fileType_smv>pdf</fileType_smv>
+	</item>	<item>	<key>/site/components/a9ab72ee-2484-3ebd-4701-22eb35edaa50.xml</key>
 	<value>test</value>
 	<include>/site/components/a9ab72ee-2484-3ebd-4701-22eb35edaa50.xml</include>
 	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="fileBrowse">	<key>/static-assets/files/pdf-sample2.pdf</key>
+	<value>/static-assets/files/pdf-sample2.pdf</value>
+	<fileType_smv>pdf</fileType_smv>
 	</item></files_o>
 	<scripts_o item-list="true">	<item datasource="scripts">	<key>/scripts/pages/site-map.groovy</key>
 	<value>/scripts/pages/site-map.groovy</value>
