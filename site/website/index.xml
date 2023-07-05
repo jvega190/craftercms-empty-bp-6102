@@ -26,7 +26,7 @@
   <createdDate>2017-01-31T16:18:14.000Z</createdDate>
   <createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
   <lastModifiedDate>2023-07-05T14:51:51.525Z</lastModifiedDate>
-  <lastModifiedDate_dt>2023-07-05T15:41:39.191Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2023-07-05T15:41:54.059Z</lastModifiedDate_dt>
   <title_t>Hello!</title_t>
   <disabled>false</disabled>
   <files_o item-list="true">
@@ -91,6 +91,16 @@
   <repGroupComponents_o item-list="true">
     <item>
       <component_o item-list="true">
+        <item>
+          <key>/site/components/490dee04-28a2-e98f-4547-b3cfe0ab61c2.xml</key>
+          <value>Shared1</value>
+          <include>/site/components/490dee04-28a2-e98f-4547-b3cfe0ab61c2.xml</include>
+          <disableFlattening>false</disableFlattening>
+        </item>
+      </component_o>
+    </item>
+    <item>
+      <component_o item-list="true">
         <item inline="true">
           <key>90436426-e70a-d10f-014e-afbb03a13702</key>
           <value>Embedded1</value>
@@ -111,16 +121,6 @@
             <lastModifiedDate>2023-07-05T14:52:04.439Z</lastModifiedDate>
             <lastModifiedDate_dt>2023-07-05T14:52:04.439Z</lastModifiedDate_dt>
           </component>
-        </item>
-      </component_o>
-    </item>
-    <item>
-      <component_o item-list="true">
-        <item>
-          <key>/site/components/490dee04-28a2-e98f-4547-b3cfe0ab61c2.xml</key>
-          <value>Shared1</value>
-          <include>/site/components/490dee04-28a2-e98f-4547-b3cfe0ab61c2.xml</include>
-          <disableFlattening>false</disableFlattening>
         </item>
       </component_o>
     </item>
