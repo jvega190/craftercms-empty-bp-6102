@@ -646,5 +646,18 @@
 						</property>
 					</properties>
 				</datasource>
+				<datasource>
+					<type>file-browse-repo</type>
+					<id>fileBrowse</id>
+					<title>FileBrowse</title>
+					<interface>item</interface>
+					<properties>
+						<property>
+							<name>repoPath</name>
+							<value>/static-assets/files</value>
+								<type>content-path-input</type>
+						</property>
+					</properties>
+				</datasource>
 	</datasources>
 </form>
