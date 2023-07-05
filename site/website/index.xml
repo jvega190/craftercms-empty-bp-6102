@@ -25,25 +25,11 @@
 	<folder-name/>
 	<createdDate>2017-01-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2023-07-05T17:03:27.013Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-07-05T17:03:27.013Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-07-05T17:03:38.427Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-07-05T17:03:38.427Z</lastModifiedDate_dt>
 	<title_t>Hello!</title_t>
 	<disabled>false</disabled>
-	<files_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/files/angular_upandrunning.pdf</key>
-	<value>/static-assets/files/angular_upandrunning.pdf</value>
-	<fileType_smv>pdf</fileType_smv>
-	<fileSize_smv>8337866</fileSize_smv>
-	<include>/static-assets/files/angular_upandrunning.pdf</include>
-	</item>	<item>	<key>/site/components/a9ab72ee-2484-3ebd-4701-22eb35edaa50.xml</key>
-	<value>test</value>
-	<include>/site/components/a9ab72ee-2484-3ebd-4701-22eb35edaa50.xml</include>
-	<disableFlattening>false</disableFlattening>
-	</item>	<item datasource="fileUpload">	<key>/static-assets/files/distributedsystemswithnodejs.pdf</key>
-	<value>/static-assets/files/distributedsystemswithnodejs.pdf</value>
-	<fileType_smv>pdf</fileType_smv>
-	<fileSize_smv>8689217</fileSize_smv>
-	<include>/static-assets/files/distributedsystemswithnodejs.pdf</include>
-	</item></files_o>
+	<files_o item-list="true"/>
 	<scripts_o item-list="true">	<item datasource="scripts">	<key>/scripts/pages/site-map.groovy</key>
 	<value>/scripts/pages/site-map.groovy</value>
 	<fileType_smv>groovy</fileType_smv>
@@ -88,6 +74,7 @@
             <lastModifiedDate>2023-07-05T14:52:04.439Z</lastModifiedDate>
             <lastModifiedDate_dt>2023-07-05T14:52:04.439Z</lastModifiedDate_dt>
           </component>
+	<disableFlattening>false</disableFlattening>
 	</item></component_o>
 	</item></repGroupComponents_o>
 </page>
