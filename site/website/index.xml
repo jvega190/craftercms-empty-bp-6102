@@ -26,7 +26,7 @@
   <createdDate>2017-01-31T16:18:14.000Z</createdDate>
   <createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
   <lastModifiedDate>2023-07-05T16:13:38.591Z</lastModifiedDate>
-  <lastModifiedDate_dt>2023-07-05T16:15:01.241Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2023-07-05T16:15:07.438Z</lastModifiedDate_dt>
   <title_t>Hello!</title_t>
   <disabled>false</disabled>
   <files_o item-list="true">
@@ -43,12 +43,6 @@
       <fileType_smv>pdf</fileType_smv>
       <fileSize_smv>8689217</fileSize_smv>
       <include>/static-assets/files/distributedsystemswithnodejs.pdf</include>
-    </item>
-    <item>
-      <key>/site/components/a9ab72ee-2484-3ebd-4701-22eb35edaa50.xml</key>
-      <value>test</value>
-      <include>/site/components/a9ab72ee-2484-3ebd-4701-22eb35edaa50.xml</include>
-      <disableFlattening>false</disableFlattening>
     </item>
   </files_o>
   <scripts_o item-list="true">
