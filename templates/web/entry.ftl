@@ -29,7 +29,7 @@
 			<@crafter.div $field="body_html">${model.body_html}</@crafter.div>
 
 			<br /><br />
-			<h2>List of files:</h2>
+			<h2>List of files/components:</h2>
 			<@crafter.ul $field="files_o">
 			<#list contentModel.files_o.item as file>
 				<#assign index = file?index />
