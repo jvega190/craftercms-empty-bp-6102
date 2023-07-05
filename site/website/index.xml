@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page>
-	<content-type>/page/entry</content-type>
-	<display-template>/templates/web/entry.ftl</display-template>
-	<no-template-required/>
-	<merge-strategy>inherit-levels</merge-strategy>
-	<placeInNav>false</placeInNav>
-	<file-name>index.xml</file-name>
-	<internal-name>Home</internal-name>
-	<orderDefault_f>-1</orderDefault_f>
-	<body_html>&lt;h1&gt;Welcome to Your CrafterCMS Project.&lt;/h1&gt;
+  <content-type>/page/entry</content-type>
+  <display-template>/templates/web/entry.ftl</display-template>
+  <no-template-required/>
+  <merge-strategy>inherit-levels</merge-strategy>
+  <placeInNav>false</placeInNav>
+  <file-name>index.xml</file-name>
+  <internal-name>Home</internal-name>
+  <orderDefault_f>-1</orderDefault_f>
+  <body_html>&lt;h1&gt;Welcome to Your CrafterCMS Project.&lt;/h1&gt;
 &lt;p&gt;This project blueprint is the equivalent of a Hello World. It's a blank slate on which you can build your own digital experience.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;To create new content types use the Project Tools &amp;gt; Content Types menu on the left Sidebar&lt;/li&gt;
@@ -20,58 +20,91 @@
 &lt;div&gt;
 &lt;p&gt;This content is managed by the form. &amp;nbsp;Click edit to change OR in the upper right hand corner, click the pencil to turn on edit mode.&lt;/p&gt;
 &lt;/div&gt;</body_html>
-	<objectGroupId>8d7f</objectGroupId>
-	<objectId>8d7f21fa-5e09-00aa-8340-853b7db302da</objectId>
-	<folder-name/>
-	<createdDate>2017-01-31T16:18:14.000Z</createdDate>
-	<createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2023-07-05T16:12:34.040Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-07-05T16:12:34.040Z</lastModifiedDate_dt>
-	<title_t>Hello!</title_t>
-	<disabled>false</disabled>
-	<files_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/files/angular_upandrunning.pdf</key>
-	<value>/static-assets/files/angular_upandrunning.pdf</value>
-	<fileType_smv>pdf</fileType_smv>
-	<fileSize_smv>8337866</fileSize_smv>
-	<include>/static-assets/files/angular_upandrunning.pdf</include>
-	</item>	<item>	<key>/site/components/a9ab72ee-2484-3ebd-4701-22eb35edaa50.xml</key>
-	<value>test</value>
-	<include>/site/components/a9ab72ee-2484-3ebd-4701-22eb35edaa50.xml</include>
-	<disableFlattening>false</disableFlattening>
-	</item>	<item datasource="fileUpload">	<key>/static-assets/files/distributedsystemswithnodejs.pdf</key>
-	<value>/static-assets/files/distributedsystemswithnodejs.pdf</value>
-	<fileType_smv>pdf</fileType_smv>
-	<fileSize_smv>8689217</fileSize_smv>
-	<include>/static-assets/files/distributedsystemswithnodejs.pdf</include>
-	</item></files_o>
-	<scripts_o item-list="true">	<item datasource="scripts">	<key>/scripts/rest/site-map.get.groovy</key>
-	<value>/scripts/rest/site-map.get.groovy</value>
-	<fileType_smv>groovy</fileType_smv>
-	</item>	<item datasource="scripts">	<key>/scripts/pages/site-map.groovy</key>
-	<value>/scripts/pages/site-map.groovy</value>
-	<fileType_smv>groovy</fileType_smv>
-	</item></scripts_o>
-	<components_o item-list="true">	<item>	<key>/site/components/3bd04603-751a-e100-cd49-33193f871654.xml</key>
-	<value>Test2</value>
-	<include>/site/components/3bd04603-751a-e100-cd49-33193f871654.xml</include>
-	<disableFlattening>false</disableFlattening>
-	</item>	<item>	<key>/site/components/a9ab72ee-2484-3ebd-4701-22eb35edaa50.xml</key>
-	<value>test</value>
-	<include>/site/components/a9ab72ee-2484-3ebd-4701-22eb35edaa50.xml</include>
-	<disableFlattening>false</disableFlattening>
-	</item></components_o>
-	<repGroupSimple_o item-list="true">	<item>	<title_s>Item1</title_s>
-	</item>	<item>	<title_s>Item3</title_s>
-	</item>	<item>	<title_s>Item2</title_s>
-	</item></repGroupSimple_o>
-	<repGroupComponents_o item-list="true">	<item>	<component_o item-list="true">	<item>	<key>/site/components/490dee04-28a2-e98f-4547-b3cfe0ab61c2.xml</key>
-	<value>Shared1</value>
-	<include>/site/components/490dee04-28a2-e98f-4547-b3cfe0ab61c2.xml</include>
-	<disableFlattening>false</disableFlattening>
-	</item></component_o>
-	</item>	<item>	<component_o item-list="true">	<item inline="true">	<key>90436426-e70a-d10f-014e-afbb03a13702</key>
-	<value>Embedded1</value>
-<component id="90436426-e70a-d10f-014e-afbb03a13702">
+  <objectGroupId>8d7f</objectGroupId>
+  <objectId>8d7f21fa-5e09-00aa-8340-853b7db302da</objectId>
+  <folder-name/>
+  <createdDate>2017-01-31T16:18:14.000Z</createdDate>
+  <createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
+  <lastModifiedDate>2023-07-05T16:12:34.040Z</lastModifiedDate>
+  <lastModifiedDate_dt>2023-07-05T16:12:50.971Z</lastModifiedDate_dt>
+  <title_t>Hello!</title_t>
+  <disabled>false</disabled>
+  <files_o item-list="true">
+    <item datasource="fileUpload">
+      <key>/static-assets/files/angular_upandrunning.pdf</key>
+      <value>/static-assets/files/angular_upandrunning.pdf</value>
+      <fileType_smv>pdf</fileType_smv>
+      <fileSize_smv>8337866</fileSize_smv>
+      <include>/static-assets/files/angular_upandrunning.pdf</include>
+    </item>
+    <item>
+      <key>/site/components/a9ab72ee-2484-3ebd-4701-22eb35edaa50.xml</key>
+      <value>test</value>
+      <include>/site/components/a9ab72ee-2484-3ebd-4701-22eb35edaa50.xml</include>
+      <disableFlattening>false</disableFlattening>
+    </item>
+    <item datasource="fileUpload">
+      <key>/static-assets/files/distributedsystemswithnodejs.pdf</key>
+      <value>/static-assets/files/distributedsystemswithnodejs.pdf</value>
+      <fileType_smv>pdf</fileType_smv>
+      <fileSize_smv>8689217</fileSize_smv>
+      <include>/static-assets/files/distributedsystemswithnodejs.pdf</include>
+    </item>
+  </files_o>
+  <scripts_o item-list="true">
+    <item datasource="scripts">
+      <key>/scripts/pages/site-map.groovy</key>
+      <value>/scripts/pages/site-map.groovy</value>
+      <fileType_smv>groovy</fileType_smv>
+    </item>
+    <item datasource="scripts">
+      <key>/scripts/rest/site-map.get.groovy</key>
+      <value>/scripts/rest/site-map.get.groovy</value>
+      <fileType_smv>groovy</fileType_smv>
+    </item>
+  </scripts_o>
+  <components_o item-list="true">
+    <item>
+      <key>/site/components/3bd04603-751a-e100-cd49-33193f871654.xml</key>
+      <value>Test2</value>
+      <include>/site/components/3bd04603-751a-e100-cd49-33193f871654.xml</include>
+      <disableFlattening>false</disableFlattening>
+    </item>
+    <item>
+      <key>/site/components/a9ab72ee-2484-3ebd-4701-22eb35edaa50.xml</key>
+      <value>test</value>
+      <include>/site/components/a9ab72ee-2484-3ebd-4701-22eb35edaa50.xml</include>
+      <disableFlattening>false</disableFlattening>
+    </item>
+  </components_o>
+  <repGroupSimple_o item-list="true">
+    <item>
+      <title_s>Item1</title_s>
+    </item>
+    <item>
+      <title_s>Item3</title_s>
+    </item>
+    <item>
+      <title_s>Item2</title_s>
+    </item>
+  </repGroupSimple_o>
+  <repGroupComponents_o item-list="true">
+    <item>
+      <component_o item-list="true">
+        <item>
+          <key>/site/components/490dee04-28a2-e98f-4547-b3cfe0ab61c2.xml</key>
+          <value>Shared1</value>
+          <include>/site/components/490dee04-28a2-e98f-4547-b3cfe0ab61c2.xml</include>
+          <disableFlattening>false</disableFlattening>
+        </item>
+      </component_o>
+    </item>
+    <item>
+      <component_o item-list="true">
+        <item inline="true">
+          <key>90436426-e70a-d10f-014e-afbb03a13702</key>
+          <value>Embedded1</value>
+          <component id="90436426-e70a-d10f-014e-afbb03a13702">
             <content-type>/component/component</content-type>
             <display-template>/templates/web/components/component.ftl</display-template>
             <no-template-required>true</no-template-required>
@@ -88,6 +121,8 @@
             <lastModifiedDate>2023-07-05T14:52:04.439Z</lastModifiedDate>
             <lastModifiedDate_dt>2023-07-05T14:52:04.439Z</lastModifiedDate_dt>
           </component>
-	</item></component_o>
-	</item></repGroupComponents_o>
+        </item>
+      </component_o>
+    </item>
+  </repGroupComponents_o>
 </page>
