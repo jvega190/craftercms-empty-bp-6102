@@ -53,6 +53,32 @@
 			<br /><br />
 			<h2>Components:</h2>
 			<@crafter.renderComponentCollection $field="components_o" />
+
+			<br /><br />
+			<h2>Simple repeating group:</h2>
+			<@crafter.renderRepeatGroup
+				$field="repGroupSimple_o"
+				$containerTag="ul"
+				$itemTag="li";
+				item, index
+			>
+				<@crafter.p $field="repGroupSimple_o.title_s" $index=index>${item.title_s}</@crafter.p>
+			</@crafter.renderRepeatGroup>
+
+			<br /><br />
+			<h2>Components repeating group:</h2>
+			<@crafter.renderRepeatGroup
+				$field="repGroupComponents_o"
+				$containerTag="ul"
+				$itemTag="li";
+				item, index
+			>
+				<@crafter.renderComponentCollection
+					$field="repGroupComponents_o.component_o"
+					$collection=item.component_o!
+					$indexCarryover=index
+				/>
+			</@crafter.renderRepeatGroup>
 		</main>
 		<@crafter.body_bottom/>
 	</body>
