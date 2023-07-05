@@ -29,7 +29,7 @@
 			<@crafter.div $field="body_html">${model.body_html}</@crafter.div>
 
 			<br /><br />
-			<h2>List of files/components:</h2>
+			<h2>Node selector with files and components:</h2>
 			<@crafter.ul $field="files_o">
 			<#list contentModel.files_o.item as file>
 				<#assign index = file?index />
@@ -40,7 +40,7 @@
 			</@crafter.ul>
 
 			<br /><br />
-			<h2>List of scripts:</h2>
+			<h2>Node selector with scripts:</h2>
 			<@crafter.ul $field="scripts_o">
 				<#list contentModel.scripts_o.item as script>
 					<#assign index = script?index />
@@ -51,7 +51,7 @@
 			</@crafter.ul>
 
 			<br /><br />
-			<h2>Components:</h2>
+			<h2>Node selector with only Components:</h2>
 			<@crafter.renderComponentCollection $field="components_o" />
 
 			<br /><br />
